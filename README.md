@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I'm Muhammed Sahad! 👋
 
-<!--
-**Muhammed-Sahad-N/Muhammed-Sahad-N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Data Analyst specializing in extracting, cleaning, and visualizing complex datasets to drive business decisions. With a background in Business Administration and hands-on operational experience, I focus on bridging the gap between raw data and strategic insights.
 
-Here are some ideas to get you started:
+### 🛠️ Technical Stack
+* **Databases:** SQL, PostgreSQL, MySQL
+* **Business Intelligence:** Power BI, Tableau, Power Query
+* **Programming:** Python (Pandas, NumPy, Matplotlib)
+* **Tools:** Advanced Excel, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Let's Connect
+* [LinkedIn](https://www.linkedin.com/in/muhammed-sahad-n/)
+* Email: mhdsahad333@gmail.com
