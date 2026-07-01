@@ -11,4 +11,4 @@ I am a Data Analyst specializing in extracting, cleaning, and visualizing comple
 ### 📫 Let's Connect
 * [LinkedIn](https://www.linkedin.com/in/muhammed-sahad-n/)
 * Email: mhdsahad333@gmail.com
-*[📄 Download My Resume (PDF)](./Muhammed_Sahad_Resume.pdf)
+* [📄 Download My Resume (PDF)](./Muhammed_Sahad_Resume.pdf)
